@@ -1,17 +1,34 @@
 # Portfolio de compétences
 
-À utiliser les éléments vus lors de la séance de réflexion.
+**Orientation :**
 
-## Description
+[Lien de l'arbre des connaissances](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/) *(filtre sur ton orientation)*
 
-Ce document présente les compétences acquises par les étudiants de bachelor dans les filières quantitatives à la FSGE. La colonne de gauche liste les compétences, tandis que la colonne de droite permet la validation (cours et enseignant responsable).
+---
 
-## Exemple
+## 1. Cinq compétences que je reconnais avoir travaillées
 
-| Compétence | Validation et cours |
-|------------|-------------------|
-| **Bases de la programmation**<br>- Structures de contrôle (y compris erreurs/assertions)<br>- Structures de données et types<br>- Fonctions<br>- Graphiques simples | |
-| **Modélisation numérique**<br>- Introduction à la modélisation numérique<br>- Discrétisation d’un problème d’advection-diffusion (différences finies)<br>- Implémentation en Python | |
-| **Méthodes quantitatives**<br>- Régression linéaire<br>- Tests d’hypothèses<br>- Algèbre linéaire<br>- Représentation des données (graphique et tabulaire) | |
-| **Communication et reproductibilité du code**<br>- Gestion de versions (ex. Git)<br>- Création de site web et ebook<br>- Workflows reproductibles<br>- Partage et présentation du code et des résultats | |
-| **Divers**<br>- Sensibilisation aux enjeux professionnels et éthiques liés à l’IA | |
+*Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
+
+1. 
+2. 
+3. 
+4. 
+5. 
+
+---
+
+## 2. Trois de ces cinq, avec leur preuve
+
+*Une ligne par preuve. La dernière colonne est la plus importante : peux-tu rouvrir cette preuve en deux minutes ?*
+
+| Compétence (réf. + intitulé) | La preuve (quoi, quand, sous quelle forme) | Ce que j'ai décidé (un choix, et pourquoi) | Écrit, audio, images, etc. (où la retrouver, ou perdue) | 
+|---|---|---|---|
+| Compétence 1 |  |  |  |
+| Compétence 2  |  |  |  |
+|  Compétence 3 |  |  |  |
+|  Compétence 4 (hors cursus) |  |  |  |
+---
+
+*Arbre des connaissances, état au 21 octobre 2026 · [gse-sondage.unil.ch/quiz-rentree-fgse/arbre/](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/)*
+
