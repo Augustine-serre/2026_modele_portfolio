@@ -9,8 +9,8 @@ Bonjour ! Je m'appelle Augustine Serre. Passionnée par la montagne et la nature
 *   **Langues :** Français (Langue maternelle), Anglais (Intermédiaire)
 
 ## Mon Parcours
-1.  **[2024 - 2026] :** Bachelor en Géographie à l'université de Savoie Mont-Blanc en France et un semestre à l'Université de Lausanne
-2.  **[2024] :** Dîplome d'État français Alpinisme - Accompagnateur en Montagne
+1.  **2024 - 2026 :** Bachelor en Géographie à l'université de Savoie Mont-Blanc en France et un semestre à l'Université de Lausanne
+2.  **2024 :** Diplôme d'État français Alpinisme - Accompagnateur en Montagne
 
 ## Me contacter
 *   **Email :** augustine.serre@unil.ch
