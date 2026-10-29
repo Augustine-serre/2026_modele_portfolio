@@ -1,10 +1,19 @@
-# À propos
+# À propos de moi
 
-```{image} ./img/ma_photo.png
-:alt: Photo de profil
-:class: bg-primary mb-1
-:width: 200px
-:align: left
-```
-\
-Je suis étudiant(e) en bachelor en **[nom du programme]** à l'**UNIL**, avec un intérêt particulier pour **[domaine principal / spécialisation]**.
+![Photo de profil](other/site_logo.png) <!-- Vous pouvez remplacer par votre propre photo -->
+
+## Mon Profil
+Bonjour ! Je m'appelle Augustine Serre. Passionné(e) par la montagne et la nature, je développe actuellement des projets autour de l'accompagnement en montagne et de la lecture de paysage grâce à ma double casquette de géographe et d'accompagnatrice en montagne. 
+
+## Compétences
+*   **Techniques :** Python, Jupyter Notebooks, Markdown
+*   **Langues :** Français (Langue maternelle), Anglais (Intermédiaire)
+*   **Outils :** Git, GitHub, MyST Markdown
+
+## Mon Parcours
+1.  **[2024 - 2026] :** [Bachelor en Géographie à l'université de Savoie Mont-Blanc en France et un semestre à l'Université de Lausanne]
+2.  **[2024] :** [Dîplome d'État français Alpinisme - Accompagnateur en Montagne]
+
+## Me contacter
+*   **Email :** [augustine.serre@unil.ch]
+*   **GitHub :** [Lien vers votre profil]
